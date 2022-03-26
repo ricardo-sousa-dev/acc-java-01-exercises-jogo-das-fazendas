@@ -9,7 +9,7 @@ public class PlayerResult {
     this.farms = farms;
   }
 
-  /** Javadoc */
+  /** Javadoc. */
   public double score() {
     double totalArea = 0;
     for (Farm farm : this.farms) {
