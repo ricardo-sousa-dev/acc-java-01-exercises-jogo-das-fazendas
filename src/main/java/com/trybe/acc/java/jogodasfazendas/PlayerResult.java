@@ -17,4 +17,12 @@ public class PlayerResult {
     }
     return totalArea;
   }
+
+  // alternative for
+
+  // double totalArea = 0;
+  // for(int i = 0; i < farms.length; i++) {
+  // totalArea += farms[i].area();
+  // }
+
 }
